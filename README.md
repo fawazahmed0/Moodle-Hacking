@@ -1,4 +1,4 @@
-# Moodle-hacking
+# Moodle-Hacking
 Hack in Moodle Exam
 
 This hack is not based on vulnerabilities in moodle code

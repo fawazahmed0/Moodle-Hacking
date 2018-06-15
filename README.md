@@ -9,25 +9,25 @@ Please feel free to contact me for more information
 
 ## Screenshot
 
-![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/-2018-jun-15-003.jpg)
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/-2018-jun-15-003.jpg)
 
 
 ### Corner buttons
 
 clicking on top right corner will add new div
 
-![image]()
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/1.jpg)
 
-![image]()
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/2.jpg)
 
 clicking on bottom left corner will add answer
 
-![image]()
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/3.jpg)
 
-![image]()
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/4.jpg)
 
 clicking on bottom right corner will toggle the answer
 
-![image]()
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/5.jpg)
 
-
+![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/6.jpg)

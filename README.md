@@ -14,19 +14,19 @@ Please feel free to contact me for more information
 
 ### Corner buttons
 
-clicking on top right corner will add new div
+- Clicking on top right corner will add new div
 
 ![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/1.jpg)
 
 ![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/2.jpg)
 
-clicking on bottom left corner will add answer
+- Clicking on bottom left corner will add answer
 
 ![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/3.jpg)
 
 ![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/4.jpg)
 
-clicking on bottom right corner will toggle the answer
+- Clicking on bottom right corner will toggle the answer
 
 ![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/5.jpg)
 

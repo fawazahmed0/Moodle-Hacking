@@ -3,19 +3,18 @@ Hack in Moodle Exam
 
 This hack is not based on vulnerabilities in moodle code
 
-Due to ethical reasons , I am not sharing my code in here as it might be misused by many of you.
-    But I will explain you how this code works:
+Due to ethical reasons , I am not sharing my code in here as it might be misused by many of you.\
+But I will explain you how this code works:\
+I have not exploited any vulnerability in moodle, rather it is same as cheating from your notebook in exam.\
+It a client-server program,\
+Client:\
+Client (Student) side program will send the questions to server.\
+Server:\
+Server side program will receive the questions and search the answers using elastic search, and send back the answer to the Client.\
 
-I have not exploited any vulnerability in moodle, rather it is same as cheating from your notebook in exam.
-It a client-server program,
-Client:
-Client (Student) side program will send the questions to server.
-Server:
-Server side program will receive the questions and search the answers using elastic search, and send back the answer to the Client.
+Elastic Search will have all the subject related OCR textbooks(Searchable)\
 
-Elastic Search will have all the subject related OCR textbooks(Searchable)
-
-In simple terms, it is same as someone searching the answers from a textbook to cheat in exam, but my program automatically searches the answer from the OCR textbook and sends back to the user.
+In simple terms, it is same as someone searching the answers from a textbook to cheat in exam, but my program automatically searches the answer from the OCR textbook and sends back to the user.\
 
 
 ## Screenshot

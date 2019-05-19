@@ -10,11 +10,11 @@ It a client-server program,\
 Client:\
 Client (Student) side program will send the questions to server.\
 Server:\
-Server side program will receive the questions and search the answers using elastic search, and send back the answer to the Client.\
+Server side program will receive the questions and search the answers using elastic search, and send back the answer to the Client.
 
-Elastic Search will have all the subject related OCR textbooks(Searchable)\
+Elastic Search will have all the subject related OCR textbooks(Searchable)
 
-In simple terms, it is same as someone searching the answers from a textbook to cheat in exam, but my program automatically searches the answer from the OCR textbook and sends back to the user.\
+In simple terms, it is same as someone searching the answers from a textbook to cheat in exam, but my program automatically searches the answer from the OCR textbook and sends back to the user.
 
 
 ## Screenshot

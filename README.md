@@ -8,12 +8,12 @@ Due to ethical reasons , I am not sharing my code in here as it might be misused
 But I will explain you how this code works:\
 I have not exploited any vulnerability in moodle, rather it is same as cheating from your notebook in exam.\
 It a client-server program,\
-Client:\
+<b>Client:</b>\
 Client (Student) side program will send the questions to server.\
-Server:\
+<b>Server:</b>\
 Server side program will receive the questions and search the answers using elastic search, and send back the answer to the Client.
 
-Elastic Search will have all the subject related OCR textbooks(Searchable)
+<b>Elastic Search</b> will have all the subject related OCR textbooks(Searchable)
 
 In simple terms, it is same as someone searching the answers from a textbook to cheat in exam, but my program automatically searches the answer from the OCR textbook and sends back to the user.
 

@@ -1,11 +1,14 @@
 # Moodle-Hacking
 Hack in Moodle Exam
 
+### Note:
+Everyone seems to be writing to me to share the code, Please understand that I did this project 3 years back, and the code was sort of spaghetti code filled with bugs. The code was written for older version of moodle and it might not even work on the latest moodle version.
+Sorry for not replying to all those emails, issues etc which were asking for code and I won't be replying to any such new requests as well, because I currently don't even that code. I hope you understand that.
+I have explained how the code worked, so that you can rewrite the code for newer moodle version.
+ 
 This hack is not based on vulnerabilities in moodle code
 
-Due to ethical reasons , I am not sharing my code in here as it might be misused by many of you.
-
-But I will explain you how this code works:\
+But I will explain you how the code works:\
 I have not exploited any vulnerability in moodle, rather it is same as cheating from your notebook in exam.\
 It a client-server program,\
 <b>Client:</b>\
@@ -18,7 +21,7 @@ Server side program will receive the questions and search the answers using elas
 In simple terms, it is same as someone searching the answers from a textbook to cheat in exam, but my program automatically searches the answer from the OCR textbook and sends back to the user.
 
 
-## Screenshot
+### Screenshot
 
 ![image](https://github.com/fawazahmed0/moodle-hacking/blob/master/images/-2018-jun-15-003.jpg)
 

@@ -3,8 +3,8 @@ Hack in Moodle Exam
 
 ### Note:
 Everyone seems to be writing to me to share the code, Please understand that I did this project 3 years back, and the code was sort of spaghetti code filled with bugs. The code was written for older version of moodle and it might not even work on the latest moodle version.
-Sorry for not replying to all those emails, issues etc which were asking for code and I won't be replying to any such new requests as well, because I currently don't even that code. I hope you understand that.
-I have explained how the code worked, so that you can rewrite the code for newer moodle version.
+Sorry for not replying to all those emails, issues etc which were asking for code and I won't be replying to any such new requests as well, because I currently don't even have that code. I hope you understand that.
+I have explained how the code worked, so that you can rewrite the code for newer moodle version and learn to code.
  
 This hack is not based on vulnerabilities in moodle code
 

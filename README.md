@@ -6,7 +6,7 @@ Hack in Moodle Exam
 
 <strong> If you would like to scrape data from web, automate a task, build out a website or consult on something
 
-Then please write mail to ping@datascraping.pp.ua </strong>
+Then please write mail to pingmd@datascraping.pp.ua </strong>
 
 ------------
 
